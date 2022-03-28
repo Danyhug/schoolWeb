@@ -1,8 +1,8 @@
 软件介绍
 ----
 - 作用：锐捷校园网自动登录认证
-- 有问题可以提Issues
 - 因为技术有限，代码写的比较烂
+- [视频教程](https://www.bilibili.com/video/BV1aZ4y1m7Jz)
 
 目录结构
 ----
