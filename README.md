@@ -40,5 +40,6 @@
      - pip install requests
 
 3. 进入src文件夹，更改conf.py的配置文件
-4. 运行程序
+4. 更改data.json的文件内容，写上你的账号密码
+5. 运行程序
    - python main.py
