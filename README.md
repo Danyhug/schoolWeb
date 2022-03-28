@@ -35,10 +35,10 @@
 
 如何使用
 ----
-
-1. 安装所需要的库
+1. 安装python，添加到环境变量
+2. 安装所需要的库
      - pip install requests
 
-2. 更改conf.py的配置文件
-3. 运行程序
+3. 进入src文件夹，更改conf.py的配置文件
+4. 运行程序
    - python main.py
